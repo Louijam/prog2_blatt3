@@ -1,3 +1,6 @@
 [submodule "prog2_ybel_calculator"]
 	path = prog2_ybel_calculator
 	url = https://github.com/Louijam/prog2_ybel_calculator
+[submodule "prog2_ybel_locksnake"]
+	path = prog2_ybel_locksnake
+	url = https://github.com/Louijam/prog2_ybel_locksnake
